@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Fred -- AKA <a href="https://github.com/frzyc">frzyc</a>
+
+I'm the creator of the <a href="https://frzyc.github.io/genshin-optimizer">Genshin Optimizer</a>. 
+
 
 <!--
 **frzyc/frzyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
